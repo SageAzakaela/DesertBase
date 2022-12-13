@@ -2982,11 +2982,11 @@
  </user_tiles>
  <used_tiles>42 95 89 52 79 78 70 71 80 69 81 73 74 75 72 110 109 107 106 105 104 125 130 92 46 61 118 117 64 57 58 11 3 127 126 77 120 121 122 124 123 128 129 12 4 13 20 5 21 6 99 65 66 67 68 62 63 60 55 132 133 134 54 53 45 17 7 22 23 8 139 43 94 103 93 88 131 100 101 102 108 2 87 83 84 14 15 86 82 18 16 9 19 56 59 96 97 136 44 40 41 39 38 24 25 26 27 28 29 37 34 36 35 47 48 111 113 114 137 138 115 91 76 10 1 90 98 116 135 51 50 49 32 33 31 30 119 140 85 112</used_tiles>
  <used_furniture>24 3 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 2 44 45 46 47 48 22 49 50 51 52 53 54 55 56 57 1 58 59 60 61 5 6 62 63 64 1 65 66 14 67 68 20 69 15 70 71 34 72 73 74 75 76 77 78 79 80 81 82 83 44 84 85 86 87 44 88 0 89 90 91 92 93 94 70 95 31 96 97 98 99 100 101 102 103 82 44 104 105 106 107 108 109 110 111 112 67 113 114 115 31 82 54 116 117 118 119 120 121 122 5 6 123 124 125 94 126 70 127 128 129 1 130 131 132 133 4 5 6 7 8 9 10 16 17 18 19 21 11 12 13 23</used_furniture>
- <room Name="hall" InternalName="room1" Color="100 0 100" InteriorWall="130" InteriorWallTrim="92" Floor="72" GrimeFloor="82" GrimeWall="85"/>
- <room Name="office" InternalName="room2" Color="255 85 255" InteriorWall="130" InteriorWallTrim="0" Floor="61" GrimeFloor="82" GrimeWall="85"/>
+ <room Name="hall" InternalName="room1" Color="100 0 100" InteriorWall="130" InteriorWallTrim="92" Floor="72" GrimeFloor="82" GrimeWall="86"/>
+ <room Name="office" InternalName="room2" Color="255 85 255" InteriorWall="130" InteriorWallTrim="0" Floor="61" GrimeFloor="82" GrimeWall="86"/>
  <room Name="fancy office" InternalName="room2" Color="255 0 127" InteriorWall="126" InteriorWallTrim="91" Floor="76" GrimeFloor="83" GrimeWall="87"/>
  <room Name="storage" InternalName="room4" Color="255 170 255" InteriorWall="111" InteriorWallTrim="0" Floor="60" GrimeFloor="0" GrimeWall="0"/>
- <room Name="bathroom" InternalName="room3" Color="255 255 127" InteriorWall="117" InteriorWallTrim="0" Floor="58" GrimeFloor="82" GrimeWall="84"/>
+ <room Name="bathroom" InternalName="room3" Color="255 255 127" InteriorWall="117" InteriorWallTrim="0" Floor="58" GrimeFloor="82" GrimeWall="87"/>
  <floor>
   <object type="furniture" FurnitureTiles="0" orient="W" x="10" y="9"/>
   <object type="furniture" FurnitureTiles="0" orient="NW" x="10" y="8"/>
