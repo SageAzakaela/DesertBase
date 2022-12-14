@@ -501,7 +501,7 @@
  <user_tiles/>
  <used_tiles>2 23 22 4 15 16 14 13 12 11 10 9 8 7 6 5 19 18 17 20 3 32 24 26 29 25 30 27 28 1</used_tiles>
  <used_furniture>0 1 2 3 4 5 6 7 8</used_furniture>
- <room Name="Room 1" InternalName="room1" Color="200 200 200" InteriorWall="23" InteriorWallTrim="0" Floor="5" GrimeFloor="17" GrimeWall="19"/>
+ <room Name="Room 1" InternalName="storage" Color="200 200 200" InteriorWall="23" InteriorWallTrim="0" Floor="5" GrimeFloor="17" GrimeWall="19"/>
  <room Name="Room 2" InternalName="room2" Color="128 128 128" InteriorWall="23" InteriorWallTrim="0" Floor="0" GrimeFloor="0" GrimeWall="0"/>
  <floor>
   <object type="wall" length="3" InteriorTile="0" ExteriorTrim="0" InteriorTrim="0" x="9" y="13" dir="W" Tile="0"/>

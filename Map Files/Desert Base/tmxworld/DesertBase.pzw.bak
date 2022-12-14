@@ -225,8 +225,123 @@
   <lot x="99" y="258" level="0" width="11" height="11" map="../../../Building Pool/azakaela and fantasiado/Houses/Town/Middle Upper/South/SuburbanSouth3.tbx"/>
   <lot x="133" y="252" level="0" width="15" height="14" map="../../../Building Pool/azakaela and fantasiado/Houses/Town/Middle Upper/South/SuburbanSouth1.tbx"/>
   <lot x="146" y="175" level="0" width="15" height="18" map="../../../Building Pool/azakaela and fantasiado/Houses/Town/Middle Upper/East/House_East.tbx"/>
+  <lot x="183" y="206" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_20_farm.tbx"/>
+  <lot x="212" y="203" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_18_farm.tbx"/>
+  <lot x="244" y="164" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_21.tbx"/>
+  <lot x="265" y="213" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_09.tbx"/>
+  <lot x="252" y="208" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_21.tbx"/>
+  <lot x="257" y="251" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_04.tbx"/>
+  <lot x="141" y="262" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_patio_02_plain.tbx"/>
+  <lot x="141" y="245" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_02.tbx"/>
+  <lot x="84" y="263" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_14b.tbx"/>
+  <lot x="205" y="253" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_14b.tbx"/>
+  <object type="SpawnPoint" x="125" y="219" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="84" y="219" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="272" y="204" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="155" y="183" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="159" y="180" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="174" y="174" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="199" y="181" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="214" y="174" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="245" y="175" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="277" y="175" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="267" y="206" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="252" y="217" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="217" y="221" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="188" y="223" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="82" y="222" level="0" width="36" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="123" y="222" level="0" width="36" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="138" y="267" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="101" y="270" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="59" y="164" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="54" y="183" level="0" width="4" height="3"/>
+  <object group="ParkingStall" type="ParkingStall" x="55" y="214" level="0" width="4" height="3"/>
+  <object group="ParkingStall" type="ParkingStall" x="56" y="241" level="0" width="4" height="3"/>
+  <object group="ParkingStall" type="ParkingStall" x="47" y="279" level="0" width="4" height="3"/>
+  <object group="ParkingStall" type="ParkingStall" x="56" y="309" level="0" width="4" height="39"/>
+  <object group="ParkingStall" type="ParkingStall" x="57" y="355" level="0" width="4" height="27"/>
+  <object group="ParkingStall" type="ParkingStall" x="52" y="389" level="0" width="4" height="21"/>
+  <object group="ParkingStall" type="ParkingStall" x="60" y="441" level="0" width="4" height="30"/>
+  <object group="ParkingStall" type="ParkingStall" x="37" y="444" level="0" width="4" height="24"/>
+  <object group="ParkingStall" type="ParkingStall" x="69" y="511" level="0" width="3" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="109" y="408" level="0" width="27" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="109" y="419" level="0" width="27" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="98" y="384" level="0" width="4" height="15"/>
+  <object group="ParkingStall" type="ParkingStall" x="91" y="368" level="0" width="12" height="4"/>
+  <object group="ParkingStall" type="ParkingStall" x="87" y="330" level="0" width="4" height="18"/>
+  <object group="ParkingStall" type="ParkingStall" x="279" y="355" level="0" width="3" height="4"/>
+  <object group="TownZone" type="TownZone" x="30" y="302" level="0" width="109" height="171"/>
+  <object group="TownZone" type="TownZone" x="35" y="155" level="0" width="138" height="124"/>
+  <object group="Nav" type="Nav" x="0" y="133" level="0" width="300" height="15"/>
+  <object group="Nav" type="Nav" x="72" y="148" level="0" width="6" height="328"/>
+  <object group="Nav" type="Nav" x="78" y="291" level="0" width="222" height="6"/>
+  <object group="Nav" type="Nav" x="78" y="236" level="0" width="95" height="6"/>
+  <object group="Nav" type="Nav" x="166" y="241" level="0" width="7" height="38"/>
+  <object group="Nav" type="Nav" x="101" y="274" level="0" width="65" height="5"/>
+  <object group="Nav" type="Nav" x="158" y="188" level="0" width="138" height="5"/>
+  <object group="Nav" type="Nav" x="166" y="193" level="0" width="6" height="43"/>
+  <object group="Nav" type="Nav" x="173" y="240" level="0" width="124" height="6"/>
+  <object group="Nav" type="Nav" x="291" y="193" level="0" width="6" height="47"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="1,550 33,540 46,523 51,509 68,506 83,503 99,501 117,500 155,485 167,477 188,462 201,449 214,447 241,433 259,420 276,406 298,400 316,397 342,389 362,369 370,361 388,357 403,353 416,345 426,337 499,302 492,299 482,300 463,306 444,316 416,330 405,340 380,350 360,352 357,359 349,367 336,375 320,383 310,386 293,391 280,392 238,421 228,401 222,389 223,377 227,371 228,364 224,353 220,348 210,343 207,345 214,355 218,361 219,366 216,370 211,379 212,386 213,392 221,406 225,419 229,424 232,427 203,440 197,440 184,453 164,468 148,473 125,484 105,491 89,491 78,483 77,475 72,476 72,492 72,497 54,499 43,502 28,523 28,529 10,535 1,540"/>
+  <object group="Nav" type="Nav" x="300" y="291" level="0" width="199" height="8"/>
+  <object group="Nav" type="Nav" x="412" y="201" level="0" width="6" height="91"/>
+  <object group="Nav" type="Nav" x="320" y="201" level="0" width="93" height="6"/>
+  <object group="Nav" type="Nav" x="316" y="249" level="0" width="96" height="6"/>
+  <object group="TrailerPark" type="TrailerPark" x="173" y="155" level="0" width="126" height="133"/>
+  <object group="Nav" type="Nav" x="300" y="133" level="0" width="300" height="15"/>
  </cell>
- <cell x="1" y="8" map="desertbase_1_8.tmx"/>
+ <cell x="1" y="8" map="desertbase_1_8.tmx">
+  <lot x="52" y="226" level="0" width="21" height="21" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/South/Industrial Simple Warehouse South.tbx"/>
+  <lot x="13" y="225" level="0" width="22" height="24" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/South/Industrial_Medium_Warehouise.tbx"/>
+  <lot x="35" y="226" level="0" width="21" height="21" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/South/Industrial Simple Warehouse South2.tbx"/>
+  <lot x="73" y="226" level="0" width="8" height="9" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/South/Small_Office_01.tbx"/>
+  <lot x="11" y="268" level="0" width="31" height="20" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Warehouse2.tbx"/>
+  <lot x="48" y="280" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_3.tbx"/>
+  <lot x="53" y="280" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_3.tbx"/>
+  <lot x="59" y="280" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_2.tbx"/>
+  <lot x="66" y="280" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_2.tbx"/>
+  <lot x="73" y="280" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_1.tbx"/>
+  <lot x="125" y="171" level="0" width="20" height="33" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Warehouse1.tbx"/>
+  <lot x="119" y="228" level="0" width="31" height="20" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Warehouse2.tbx"/>
+  <lot x="16" y="174" level="0" width="12" height="12" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Industrial_Simple_Garage_North_02.tbx"/>
+  <lot x="42" y="174" level="0" width="12" height="11" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Industrial_Simple_Garage_North.tbx"/>
+  <lot x="62" y="168" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_4.tbx"/>
+  <lot x="71" y="168" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_3.tbx"/>
+  <lot x="80" y="169" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_2.tbx"/>
+  <lot x="91" y="170" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_1.tbx"/>
+  <lot x="70" y="188" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_4.tbx"/>
+  <lot x="81" y="188" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_3.tbx"/>
+  <lot x="91" y="188" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_2.tbx"/>
+  <lot x="61" y="188" level="0" width="5" height="8" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/North/Container_North_2.tbx"/>
+  <lot x="135" y="210" level="0" width="13" height="4" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/TruckBox1.tbx"/>
+  <lot x="135" y="217" level="0" width="13" height="4" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/TruckBox1.tbx"/>
+  <lot x="103" y="160" level="0" width="13" height="19" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/StorageUnit1.tbx"/>
+  <lot x="6" y="198" level="0" width="10" height="5" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/Container_West_3.tbx"/>
+  <lot x="7" y="205" level="0" width="6" height="4" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/SmallTruckBox.tbx"/>
+  <lot x="122" y="267" level="0" width="11" height="12" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/WaterSupplyOffice.tbx"/>
+  <lot x="143" y="253" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="133" y="253" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="143" y="259" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="133" y="259" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="87" y="226" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed2.tbx"/>
+  <lot x="93" y="226" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed1.tbx"/>
+  <lot x="101" y="226" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed3.tbx"/>
+  <lot x="88" y="261" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed1.tbx"/>
+  <lot x="94" y="261" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed2.tbx"/>
+  <lot x="101" y="261" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed3.tbx"/>
+ </cell>
  <cell x="2" y="8" map="desertbase_2_8.tmx"/>
  <cell x="3" y="8" map="desertbase_3_8.tmx"/>
  <cell x="4" y="8" map="desertbase_4_8.tmx"/>
@@ -248,10 +363,6 @@
   <lot x="56" y="213" level="0" width="11" height="11" map="../../../Building Pool/azakaela and fantasiado/Miscelaneous/Camps/desertcampsite.tbx"/>
   <lot x="281" y="45" level="0" width="9" height="10" map="../../../Building Pool/azakaela and fantasiado/Houses/Remote and abandoned/North/House North 1 1.tbx"/>
   <lot x="202" y="30" level="0" width="9" height="8" map="../../../Building Pool/azakaela and fantasiado/Houses/Farm and Remote/Poor/North/AzaGhostHouseSouth.tbx"/>
-  <object type="SpawnPoint" x="61" y="216" level="0" width="1" height="1">
-   <template name="SpawnPoint"/>
-   <property name="Professions" value="unemployed"/>
-  </object>
  </cell>
  <cell x="1" y="9" map="desertbase_1_9.tmx"/>
  <cell x="2" y="9" map="desertbase_2_9.tmx"/>

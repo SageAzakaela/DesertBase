@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<building version="3" width="20" height="20" ExteriorWall="2" ExteriorWallTrim="0" Door="1" DoorFrame="0" Window="32" Curtains="0" Shutters="0" Stairs="31" RoofCap="25" RoofSlope="28" RoofTop="30" GrimeWall="21">
+<building version="3" width="20" height="20" ExteriorWall="2" ExteriorWallTrim="0" Door="1" DoorFrame="0" Window="33" Curtains="0" Shutters="0" Stairs="32" RoofCap="26" RoofSlope="29" RoofTop="31" GrimeWall="21">
  <tile_entry category="doors">
   <tile enum="West" tile="fixtures_doors_01_052"/>
   <tile enum="North" tile="fixtures_doors_01_053"/>
@@ -138,6 +138,24 @@
   <tile enum="WestDoubleRight" tile="overlay_grime_wall_01_037"/>
   <tile enum="NorthDoubleLeft" tile="overlay_grime_wall_01_038"/>
   <tile enum="NorthDoubleRight" tile="overlay_grime_wall_01_039"/>
+ </tile_entry>
+ <tile_entry category="grime_wall">
+  <tile enum="West" tile="overlay_grime_wall_01_016"/>
+  <tile enum="North" tile="overlay_grime_wall_01_017"/>
+  <tile enum="NorthWest" tile="overlay_grime_wall_01_018"/>
+  <tile enum="SouthEast" tile="overlay_grime_wall_01_019"/>
+  <tile enum="WestWindow" tile="overlay_grime_wall_01_024"/>
+  <tile enum="NorthWindow" tile="overlay_grime_wall_01_025"/>
+  <tile enum="WestDoor" tile="overlay_grime_wall_01_026"/>
+  <tile enum="NorthDoor" tile="overlay_grime_wall_01_027"/>
+  <tile enum="WestTrim" tile="overlay_grime_wall_01_040"/>
+  <tile enum="NorthTrim" tile="overlay_grime_wall_01_041"/>
+  <tile enum="NorthWestTrim" tile="overlay_grime_wall_01_042"/>
+  <tile enum="SouthEastTrim" tile="overlay_grime_wall_01_043"/>
+  <tile enum="WestDoubleLeft" tile="overlay_grime_wall_01_044"/>
+  <tile enum="WestDoubleRight" tile="overlay_grime_wall_01_045"/>
+  <tile enum="NorthDoubleLeft" tile="overlay_grime_wall_01_046"/>
+  <tile enum="NorthDoubleRight" tile="overlay_grime_wall_01_047"/>
  </tile_entry>
  <tile_entry category="interior_wall_trim">
   <tile enum="West" tile="industry_bunker_01_024"/>
@@ -499,10 +517,10 @@
   </entry>
  </furniture>
  <user_tiles/>
- <used_tiles>2 23 22 4 15 16 14 13 12 11 10 9 8 7 6 5 19 18 17 20 3 32 24 26 29 25 30 27 28 1</used_tiles>
+ <used_tiles>2 24 23 4 15 16 14 13 12 11 10 9 8 7 6 5 19 18 17 20 3 33 25 27 30 26 31 28 29 1 21 22</used_tiles>
  <used_furniture>0 1 2 3 4 5 6 7 8</used_furniture>
- <room Name="Room 1" InternalName="storage" Color="200 200 200" InteriorWall="23" InteriorWallTrim="0" Floor="5" GrimeFloor="17" GrimeWall="19"/>
- <room Name="Room 2" InternalName="room2" Color="128 128 128" InteriorWall="23" InteriorWallTrim="0" Floor="0" GrimeFloor="0" GrimeWall="0"/>
+ <room Name="Room 1" InternalName="storage" Color="200 200 200" InteriorWall="24" InteriorWallTrim="0" Floor="5" GrimeFloor="17" GrimeWall="22"/>
+ <room Name="Room 2" InternalName="room2" Color="128 128 128" InteriorWall="24" InteriorWallTrim="0" Floor="0" GrimeFloor="0" GrimeWall="0"/>
  <floor>
   <object type="wall" length="3" InteriorTile="0" ExteriorTrim="0" InteriorTrim="0" x="9" y="13" dir="W" Tile="0"/>
   <object type="furniture" FurnitureTiles="0" orient="S" x="9" y="12"/>
@@ -575,14 +593,14 @@
 </rooms>
  </floor>
  <floor>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="9" y="13" dir="N" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="11" y="13" dir="N" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="14" y="10" dir="W" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="14" y="2" dir="W" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="11" y="1" dir="N" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="9" y="1" dir="N" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="7" y="2" dir="W" Tile="32"/>
-  <object type="window" CurtainsTile="0" ShuttersTile="0" x="7" y="10" dir="W" Tile="32"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="9" y="13" dir="N" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="11" y="13" dir="N" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="14" y="10" dir="W" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="14" y="2" dir="W" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="11" y="1" dir="N" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="9" y="1" dir="N" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="7" y="2" dir="W" Tile="33"/>
+  <object type="window" CurtainsTile="0" ShuttersTile="0" x="7" y="10" dir="W" Tile="33"/>
   <object type="furniture" FurnitureTiles="4" orient="W" x="7" y="9"/>
   <object type="furniture" FurnitureTiles="6" orient="W" x="10" y="12"/>
   <object type="furniture" FurnitureTiles="7" orient="W" x="10" y="11"/>
@@ -620,7 +638,7 @@
 </rooms>
  </floor>
  <floor>
-  <object type="roof" width="7" height="12" RoofType="PeakNS" Depth="Three" cappedW="true" cappedN="true" cappedE="true" cappedS="true" CapTiles="25" SlopeTiles="28" TopTiles="30" x="7" y="1"/>
+  <object type="roof" width="7" height="12" RoofType="PeakNS" Depth="Three" cappedW="true" cappedN="true" cappedE="true" cappedS="true" CapTiles="26" SlopeTiles="29" TopTiles="31" x="7" y="1"/>
   <rooms>
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
