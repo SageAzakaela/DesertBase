@@ -186,16 +186,56 @@
  <cell x="7" y="6" map="desertbase_7_6.tmx"/>
  <cell x="8" y="6" map="desertbase_8_6.tmx"/>
  <cell x="9" y="6" map="desertbase_9_6.tmx"/>
- <cell x="0" y="7" map="desertbase_0_7.tmx"/>
- <cell x="1" y="7" map="desertbase_1_7.tmx"/>
- <cell x="2" y="7" map="desertbase_2_7.tmx"/>
- <cell x="3" y="7" map="desertbase_3_7.tmx"/>
- <cell x="4" y="7" map="desertbase_4_7.tmx"/>
- <cell x="5" y="7" map="desertbase_5_7.tmx"/>
- <cell x="6" y="7" map="desertbase_6_7.tmx"/>
- <cell x="7" y="7" map="desertbase_7_7.tmx"/>
- <cell x="8" y="7" map="desertbase_8_7.tmx"/>
- <cell x="9" y="7" map="desertbase_9_7.tmx"/>
+ <cell x="0" y="7" map="desertbase_0_7.tmx">
+  <lot x="101" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar1.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar2.tbx"/>
+  <lot x="0" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar2.tbx"/>
+ </cell>
+ <cell x="1" y="7" map="desertbase_1_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar1.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar2.tbx"/>
+  <lot x="199" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar1.tbx"/>
+ </cell>
+ <cell x="2" y="7" map="desertbase_2_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="3" y="7" map="desertbase_3_7.tmx">
+  <lot x="3" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="104" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="205" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="4" y="7" map="desertbase_4_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="5" y="7" map="desertbase_5_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="6" y="7" map="desertbase_6_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="7" y="7" map="desertbase_7_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="8" y="7" map="desertbase_8_7.tmx">
+  <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="101" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="202" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
+ <cell x="9" y="7" map="desertbase_9_7.tmx">
+  <lot x="3" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="104" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+  <lot x="205" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
+ </cell>
  <cell x="0" y="8" map="desertbase_0_8.tmx">
   <lot x="99" y="158" level="0" width="31" height="51" map="../../../Building Pool/azakaela and fantasiado/Commercial stuff/Remote/East/desertmotel.tbx"/>
   <lot x="44" y="162" level="0" width="15" height="16" map="../../../Building Pool/azakaela and fantasiado/Commercial stuff/Remote/West/SmallGasStation.tbx"/>
@@ -235,22 +275,42 @@
   <lot x="141" y="245" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_02.tbx"/>
   <lot x="84" y="263" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_14b.tbx"/>
   <lot x="205" y="253" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_14b.tbx"/>
-  <object type="SpawnPoint" x="125" y="219" level="0" width="1" height="1">
-   <template name="SpawnPoint"/>
-   <property name="Professions" value="unemployed"/>
-  </object>
-  <object type="SpawnPoint" x="84" y="219" level="0" width="1" height="1">
-   <template name="SpawnPoint"/>
-   <property name="Professions" value="unemployed"/>
-  </object>
-  <object type="SpawnPoint" x="272" y="204" level="0" width="1" height="1">
-   <template name="SpawnPoint"/>
-   <property name="Professions" value="unemployed"/>
-  </object>
-  <object type="SpawnPoint" x="155" y="183" level="0" width="1" height="1">
-   <template name="SpawnPoint"/>
-   <property name="Professions" value="unemployed"/>
-  </object>
+  <lot x="109" y="85" level="0" width="17" height="36" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Retail and Commercial/lot_gas_07_generic.tbx"/>
+  <lot x="100" y="90" level="0" width="9" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Retail and Commercial/lot_gas_06_pumpsgeneric.tbx"/>
+  <lot x="91" y="90" level="0" width="9" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Retail and Commercial/lot_gas_06_pumpsgeneric.tbx"/>
+  <lot x="26" y="35" level="0" width="31" height="38" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Hospitality/lot_motel_05.tbx"/>
+  <lot x="12" y="73" level="0" width="38" height="48" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Restaurants and Entertainment/lot_restaurant_13_generic.tbx"/>
+  <lot x="94" y="25" level="0" width="25" height="26" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Restaurants and Entertainment/lot_bar_05.tbx"/>
+  <lot x="21" y="-1" level="0" width="35" height="35" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Restaurants and Entertainment/lot_restaurant_spiffos_04.tbx"/>
+  <lot x="101" y="18" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Other/lot_shed_10_farm.tbx"/>
+  <lot x="103" y="79" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Other/lot_shed_22.tbx"/>
+  <lot x="189" y="208" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Other/lot_patio_06_plain.tbx"/>
+  <lot x="210" y="204" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Other/lot_patio_07_plain.tbx"/>
+  <lot x="198" y="68" level="0" width="18" height="20" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_country_04_E_01.tbx"/>
+  <lot x="203" y="66" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_garage_04.tbx"/>
+  <lot x="138" y="95" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_medium_39.tbx"/>
+  <lot x="155" y="96" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_garage_26.tbx"/>
+  <lot x="177" y="94" level="0" width="17" height="17" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_13.tbx"/>
+  <lot x="187" y="91" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_garage_16.tbx"/>
+  <lot x="200" y="89" level="0" width="15" height="19" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_186_152v.tbx"/>
+  <lot x="143" y="66" level="0" width="15" height="19" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_156.tbx"/>
+  <lot x="165" y="60" level="0" width="21" height="23" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_153_109v.tbx"/>
+  <lot x="199" y="26" level="0" width="15" height="19" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_186_152v.tbx"/>
+  <lot x="142" y="8" level="0" width="14" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_military_house_01_N_01.tbx"/>
+  <lot x="137" y="37" level="0" width="19" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_160.tbx"/>
+  <lot x="155" y="16" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_garage_18.tbx"/>
+  <lot x="151" y="32" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_garage_16.tbx"/>
+  <lot x="171" y="27" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_medium_71_64v.tbx"/>
+  <lot x="170" y="6" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Residential/lot_house_small_43.tbx"/>
+  <lot x="206" y="10" level="0" width="10" height="10" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Residential/lot_house_small_46.tbx"/>
+  <lot x="196" y="35" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_04.tbx"/>
+  <lot x="192" y="10" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_14b.tbx"/>
+  <lot x="175" y="27" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_10b.tbx"/>
+  <lot x="233" y="17" level="0" width="15" height="19" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Residential/lot_house_small_156.tbx"/>
+  <lot x="231" y="36" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Residential/lot_house_small_63_yellow.tbx"/>
+  <lot x="238" y="61" level="0" width="13" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Residential/lot_house_small_08.tbx"/>
+  <lot x="231" y="93" level="0" width="21" height="23" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_small_153_109v.tbx"/>
+  <lot x="242" y="91" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Residential/lot_house_garage_29.tbx"/>
   <object name="good" group="ParkingStall" type="ParkingStall" x="159" y="180" level="0" width="3" height="4"/>
   <object name="bad" group="ParkingStall" type="ParkingStall" x="174" y="174" level="0" width="3" height="4"/>
   <object name="bad" group="ParkingStall" type="ParkingStall" x="199" y="181" level="0" width="3" height="4"/>
@@ -302,6 +362,93 @@
   <object group="TrailerPark" type="TrailerPark" x="173" y="155" level="0" width="126" height="133"/>
   <object group="Nav" type="Nav" x="300" y="133" level="0" width="300" height="15"/>
   <object name="bad" group="ParkingStall" type="ParkingStall" x="350" y="257" level="0" width="30" height="16"/>
+  <object group="TownZone" type="TownZone" x="20" y="0" level="0" width="237" height="126"/>
+  <object group="Nav" type="Nav" x="72" y="0" level="0" width="6" height="133"/>
+  <object group="Nav" type="Nav" x="72" y="0" level="0" width="185" height="6"/>
+  <object group="Nav" type="Nav" x="219" y="6" level="0" width="7" height="116"/>
+  <object group="Nav" type="Nav" x="132" y="116" level="0" width="87" height="6"/>
+  <object group="Nav" type="Nav" x="132" y="6" level="0" width="6" height="110"/>
+  <object group="Nav" type="Nav" x="138" y="51" level="0" width="81" height="6"/>
+  <object group="Nav" type="Nav" x="257" y="0" level="0" width="43" height="6"/>
+  <object group="Nav" type="Nav" x="72" y="-135" level="0" width="6" height="135"/>
+  <object group="Nav" type="Nav" x="72" y="-300" level="0" width="6" height="165"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="47" y="89" level="0" width="4" height="21"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="60" y="89" level="0" width="4" height="6"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="61" y="102" level="0" width="4" height="9"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="42" y="48" level="0" width="3" height="4"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="46" y="48" level="0" width="3" height="4"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="50" y="48" level="0" width="3" height="4"/>
+  <object name="police" group="ParkingStall" type="ParkingStall" x="45" y="64" level="0" width="4" height="3"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="38" y="54" level="0" width="4" height="3"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="38" y="58" level="0" width="4" height="3"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="55" y="7" level="0" width="4" height="21"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="65" y="8" level="0" width="4" height="18"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="88" y="46" level="0" width="3" height="4"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="91" y="46" level="0" width="12" height="4"/>
+  <object name="sport" group="ParkingStall" type="ParkingStall" x="106" y="46" level="0" width="3" height="4"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="109" y="46" level="0" width="3" height="4"/>
+  <object name="police" group="ParkingStall" type="ParkingStall" x="100" y="54" level="0" width="3" height="4"/>
+  <object name="police" group="ParkingStall" type="ParkingStall" x="105" y="57" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="154" y="40" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="159" y="10" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="185" y="42" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="205" y="42" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="212" y="68" level="0" width="4" height="3"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="241" y="75" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="204" y="105" level="0" width="3" height="4"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="189" y="101" level="0" width="3" height="4"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="158" y="106" level="0" width="3" height="4"/>
+  <object name="bad" group="ParkingStall" type="ParkingStall" x="149" y="62" level="0" width="3" height="4"/>
+  <object name="sport" group="ParkingStall" type="ParkingStall" x="172" y="61" level="0" width="3" height="4"/>
+  <object name="good" group="ParkingStall" type="ParkingStall" x="88" y="96" level="0" width="3" height="4"/>
+  <object name="sport" group="ParkingStall" type="ParkingStall" x="107" y="112" level="0" width="4" height="3"/>
+  <object name="medium" group="ParkingStall" type="ParkingStall" x="107" y="88" level="0" width="4" height="24"/>
+  <object name="trafficjamw" group="ParkingStall" type="ParkingStall" x="0" y="133" level="0" width="40" height="6"/>
+  <object name="trafficjamw" group="ParkingStall" type="ParkingStall" x="0" y="139" level="0" width="40" height="3"/>
+  <object name="trafficjamw" group="ParkingStall" type="ParkingStall" x="0" y="142" level="0" width="40" height="6"/>
+  <object name="trafficjamn" group="ParkingStall" type="ParkingStall" x="72" y="-135" level="0" width="6" height="20"/>
+  <object name="trafficjamn" group="ParkingStall" type="ParkingStall" x="447" y="-135" level="0" width="15" height="36"/>
+  <object name="trafficjame" group="ParkingStall" type="ParkingStall" x="564" y="133" level="0" width="36" height="15"/>
+  <object type="SpawnPoint" x="105" y="40" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="50" y="42" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="34" y="55" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="115" y="179" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="115" y="165" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="135" y="219" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="273" y="204" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="241" y="181" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="271" y="265" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
+  <object type="SpawnPoint" x="237" y="25" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+   <property name="Professions" value="unemployed"/>
+  </object>
  </cell>
  <cell x="1" y="8" map="desertbase_1_8.tmx">
   <lot x="52" y="226" level="0" width="21" height="21" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/South/Industrial Simple Warehouse South.tbx"/>
@@ -332,16 +479,34 @@
   <lot x="6" y="198" level="0" width="10" height="5" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/Container_West_3.tbx"/>
   <lot x="7" y="205" level="0" width="6" height="4" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/West/SmallTruckBox.tbx"/>
   <lot x="122" y="267" level="0" width="11" height="12" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/WaterSupplyOffice.tbx"/>
-  <lot x="143" y="253" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
-  <lot x="133" y="253" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
-  <lot x="143" y="259" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
-  <lot x="133" y="259" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="140" y="253" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="131" y="253" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="140" y="259" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
+  <lot x="131" y="259" level="0" width="6" height="2" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/GastTank3.tbx"/>
   <lot x="87" y="226" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed2.tbx"/>
   <lot x="93" y="226" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed1.tbx"/>
   <lot x="101" y="226" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed3.tbx"/>
   <lot x="88" y="261" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed1.tbx"/>
   <lot x="94" y="261" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed2.tbx"/>
   <lot x="101" y="261" level="0" width="4" height="16" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/East/TruckBed3.tbx"/>
+  <lot x="36" y="51" level="0" width="12" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/West Point/Other/lot_barn_06_coop.tbx"/>
+  <lot x="58" y="68" level="0" width="20" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/West Point/Residential/lot_house_country_01_N_01.tbx"/>
+  <lot x="75" y="69" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/West Point/Residential/lot_house_garage_13_08v.tbx"/>
+  <lot x="48" y="39" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_shed_10_farm.tbx"/>
+  <lot x="35" y="38" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_chickencoop_03_pigsty.tbx"/>
+  <lot x="58" y="35" level="0" width="10" height="11" map="../../../Building Pool/azakaela and fantasiado/Miscelaneous/Shed/LargeStorageShed3.tbx"/>
+  <lot x="18" y="52" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_stables_06.tbx"/>
+  <lot x="60" y="18" level="0" width="10" height="10" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_truck_05_generic.tbx"/>
+  <lot x="60" y="75" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Dixie/Other/lot_patio_05_plain.tbx"/>
+  <lot x="258" y="26" level="0" width="11" height="12" map="../../../Building Pool/azakaela and fantasiado/Industrial/Warehouses/WaterSupplyOffice.tbx"/>
+  <object group="Nav" type="Nav" x="147" y="-135" level="0" width="15" height="268"/>
+  <object group="Nav" type="Nav" x="162" y="0" level="0" width="129" height="6"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="245,133 242,110 242,98 244,96 255,94 264,91 269,86 277,81 281,73 281,63 284,49 283,43 267,44 254,44 251,36 264,33 273,36 280,37 285,36 283,30 282,6 291,6 293,34 293,46 294,59 292,70 289,78 284,86 278,91 267,99 259,102 247,106 250,114 254,133"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="84,68 76,67 77,50 80,27 79,8 73,7 0,5 -2,-1 147,-1 147,6 87,6 88,16 89,27 88,34"/>
+  <object group="Farm" type="Farm" x="2" y="9" level="0" width="138" height="114"/>
+  <object group="TownZone" type="TownZone" x="168" y="9" level="0" width="109" height="71"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="197,290 199,246 208,226 224,212 230,196 233,183 243,166 248,156 249,147 263,149 261,156 262,163 254,172 246,180 245,192 243,203 236,214 231,221 225,231 218,240 209,251 211,258 209,269 212,276 213,284 208,292 202,298 200,299 195,289 196,290 198,290 197,291"/>
+  <object group="TownZone" type="TownZone" x="5" y="154" level="0" width="149" height="136"/>
  </cell>
  <cell x="2" y="8" map="desertbase_2_8.tmx"/>
  <cell x="3" y="8" map="desertbase_3_8.tmx"/>

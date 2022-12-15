@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<building version="2" width="10" height="11" ExteriorWall="5" ExteriorWallTrim="0" Door="4" DoorFrame="0" Window="14" Curtains="2" Shutters="0" Stairs="13" RoofCap="9" RoofSlope="10" RoofTop="12" GrimeWall="0">
+<building version="3" width="10" height="11" ExteriorWall="5" ExteriorWallTrim="0" Door="4" DoorFrame="0" Window="14" Curtains="2" Shutters="0" Stairs="13" RoofCap="9" RoofSlope="10" RoofTop="12" GrimeWall="0">
  <tile_entry category="curtains">
   <tile enum="West" tile="fixtures_windows_curtains_01_032"/>
   <tile enum="East" tile="fixtures_windows_curtains_01_033"/>
@@ -755,6 +755,7 @@
   <object type="furniture" FurnitureTiles="17" orient="S" x="5" y="3"/>
   <object type="furniture" FurnitureTiles="18" orient="S" x="6" y="3"/>
   <object type="furniture" FurnitureTiles="19" orient="W" x="0" y="4"/>
+  <object type="door" FrameTile="0" x="1" y="0" dir="N" Tile="3"/>
   <rooms>
 1,1,1,1,1,1,1,0,0,0,
 1,1,1,1,1,1,1,0,0,0,
