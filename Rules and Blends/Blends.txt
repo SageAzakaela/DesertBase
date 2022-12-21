@@ -378,6 +378,9 @@ blend
     blendTile = sand_n
     dir = n
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -397,6 +400,9 @@ blend
     blendTile = sand_w
     dir = w
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -416,6 +422,9 @@ blend
     blendTile = sand_e
     dir = e
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -435,6 +444,9 @@ blend
     blendTile = sand_s
     dir = s
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -455,6 +467,9 @@ blend
     dir = nw
     exclude = [
         darkgrass
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         medgrass
         lightgrass
         water
@@ -473,6 +488,9 @@ blend
     blendTile = blends_natural_01_4
     dir = ne
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -492,6 +510,9 @@ blend
     blendTile = blends_natural_01_3
     dir = sw
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -511,6 +532,9 @@ blend
     blendTile = blends_natural_01_2
     dir = se
     exclude = [
+        desert_darkgrass
+        desert_medgrass
+        desert_lightgrass
         darkgrass
         medgrass
         lightgrass
@@ -1378,6 +1402,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1397,6 +1422,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1416,6 +1442,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1435,6 +1462,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1454,6 +1482,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1473,6 +1502,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1492,6 +1522,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
@@ -1511,6 +1542,7 @@ blend
         desert_medgrass
         desert_lightgrass
         water
+		sand
     ]
     exclude2 = [
         street_trafficlines_1 0_FloorOverlay
