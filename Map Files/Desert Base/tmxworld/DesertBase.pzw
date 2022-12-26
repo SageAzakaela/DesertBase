@@ -184,6 +184,12 @@
   <lot x="123" y="122" level="0" width="51" height="33" map="../../../Building Pool/Industrial/Lot_Industrial_Trainbay.tbx"/>
   <lot x="112" y="131" level="0" width="21" height="47" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Industrial/lot_trainyard_09_office.tbx"/>
   <lot x="93" y="132" level="0" width="14" height="5" map="../../../Building Pool/Industrial/TrainCars/Lot_TrainCar_3wide_Single_01.tbx"/>
+  <lot x="79" y="132" level="0" width="14" height="5" map="../../../Building Pool/Industrial/TrainCars/Lot_TrainCar_3wide_Single_01.tbx"/>
+  <lot x="120" y="190" level="0" width="9" height="9" map="../../../Building Pool/Industrial/Lot_Industrial_Silo.tbx"/>
+  <lot x="112" y="190" level="0" width="9" height="9" map="../../../Building Pool/Industrial/Lot_Industrial_Silo.tbx"/>
+  <lot x="111" y="125" level="0" width="10" height="24" map="../../../Building Pool/Industrial/Lot_Industrial_Silo2.tbx"/>
+  <lot x="110" y="156" level="0" width="13" height="5" map="../../../Building Pool/Industrial/Lot_Industrial_OfficeTrailer_N_01.tbx"/>
+  <lot x="64" y="125" level="0" width="10" height="25" map="../../../Building Pool/Industrial/Lot_TrainScoffold.tbx"/>
  </cell>
  <cell x="4" y="6" map="desertbase_4_6.tmx"/>
  <cell x="5" y="6" map="desertbase_5_6.tmx"/>
