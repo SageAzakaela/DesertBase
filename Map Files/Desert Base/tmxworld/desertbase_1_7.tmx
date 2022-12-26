@@ -1215,6 +1215,30 @@
  <tileset firstgid="37514" name="paint_splatter_wall_yellow" tilewidth="64" tileheight="128">
   <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/paint_splatter_wall_yellow.png" width="512" height="1024"/>
  </tileset>
+ <tileset firstgid="37578" name="alien_blends_grassoverlays_01" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/alien_blends_grassoverlays_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="37658" name="alien_cliff" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/alien_cliff.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="37786" name="alien_f_bushes_1" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/alien_f_bushes_1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="37850" name="alien_f_wallvines_1" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/alien_f_wallvines_1.png" width="384" height="1536"/>
+ </tileset>
+ <tileset firstgid="37922" name="alien_trees" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/alien_trees.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="37986" name="hole_blends" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/hole_blends.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="38066" name="hole_blends_ledge" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/hole_blends_ledge.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="38130" name="red_overlay" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/red_overlay.png" width="512" height="1280"/>
+ </tileset>
  <layer name="0_Floor" width="300" height="300">
   <data encoding="base64" compression="zlib">
    eJzt1DENACAAwDBsYRx9WCDhgCWtgl0bAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+tebrAoAzfgVU+BVQ4VdAhV8BFX4FVPgVUOFXQIVfARV+BVT4FVDhV0CFXwEVfgVU+BVQ4VdAhV8BFX4FVPgVUOFXQIVfARV+BVT4FVDhV0CFXwEVfgVU+BVQ4VdAhV8BFX4FVPgVUOFXQIVfARV+BVT4FVDhV0CFXwEVfgVU+BVQ4VdAhV8BFX4FVPgVUOFXQIVfARV+BVT4FVDhV0CFXwEVfgVU+BVQ4VdAhV8BFX4FAAAAAAAAAAAAAAAAAADAjQ3iMzJr

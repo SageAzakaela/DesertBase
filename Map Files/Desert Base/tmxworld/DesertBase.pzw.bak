@@ -17,8 +17,8 @@
   <buildingsImage path="" generate="false"/>
  </TMXToBMP>
  <GenerateLots>
-  <exportdir path="../../../../../../../Zomboid/Workshop/Desert Base/Contents/mods/Desert Base/media/maps/Podunk"/>
-  <ZombieSpawnMap path="../desertbase_ZombieSpawn.png"/>
+  <exportdir path="../../../../../../../Zomboid/Workshop/Desert Base/Contents/mods/Desert Base/media/maps/challengemaps/Podunk Challenge"/>
+  <ZombieSpawnMap path="../podunk_challenge_ZombieSpawn.png"/>
   <TileDefFolder path="../../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles"/>
   <worldOrigin origin="0,0"/>
  </GenerateLots>
@@ -178,6 +178,8 @@
  <cell x="9" y="5" map="desertbase_9_5.tmx"/>
  <cell x="0" y="6" map="desertbase_0_6.tmx">
   <lot x="83" y="4" level="0" width="121" height="101" map="../../../Building Pool/azakaela/MountainCaves/SmallCave_South.tbx"/>
+  <lot x="7" y="0" level="0" width="76" height="196" map="../../../Building Pool/azakaela/MountainCaves/Cave2.tbx"/>
+  <object x="195" y="138" level="0" width="1" height="1"/>
  </cell>
  <cell x="1" y="6" map="desertbase_1_6.tmx"/>
  <cell x="2" y="6" map="desertbase_2_6.tmx"/>
