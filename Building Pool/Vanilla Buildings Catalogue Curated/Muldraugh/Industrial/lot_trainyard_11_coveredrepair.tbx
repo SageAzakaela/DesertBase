@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<building version="3" width="20" height="60" ExteriorWall="11" ExteriorWallTrim="0" Door="2" DoorFrame="0" Window="25" Curtains="0" Shutters="0" Stairs="24" RoofCap="21" RoofSlope="22" RoofTop="23" GrimeWall="16">
+<building version="2" width="20" height="60" ExteriorWall="11" ExteriorWallTrim="0" Door="2" DoorFrame="0" Window="25" Curtains="0" Shutters="0" Stairs="24" RoofCap="21" RoofSlope="22" RoofTop="23" GrimeWall="16">
  <properties>
   <property name="Legend" value="Industrial"/>
  </properties>

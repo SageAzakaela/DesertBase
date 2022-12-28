@@ -1,5 +1,11 @@
 objects = {
-  { name = "", type = "", x = 195, y = 1938, z = 0, width = 1, height = 1 },
+  { name = "", type = "SpawnPoint", x = 814, y = 1974, z = 0, width = 1, height = 1, properties = { Professions = "" } },
+  { name = "", type = "", x = 801, y = 1915, z = 0, width = 1, height = 1 },
+  { name = "", type = "", x = 822, y = 1935, z = 0, width = 1, height = 1 },
+  { name = "", type = "", x = 837, y = 1952, z = 0, width = 1, height = 1 },
+  { name = "", type = "", x = 903, y = 1884, z = 0, width = 1, height = 1 },
+  { name = "", type = "", x = 968, y = 1934, z = 0, width = 1, height = 1 },
+  { name = "", type = "", x = 916, y = 1907, z = 0, width = 1, height = 1 },
   { name = "good", type = "ParkingStall", x = 159, y = 2580, z = 0, width = 3, height = 4 },
   { name = "bad", type = "ParkingStall", x = 174, y = 2574, z = 0, width = 3, height = 4 },
   { name = "bad", type = "ParkingStall", x = 199, y = 2581, z = 0, width = 3, height = 4 },
