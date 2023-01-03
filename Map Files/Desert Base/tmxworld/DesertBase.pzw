@@ -176,7 +176,11 @@
  <cell x="7" y="5" map="desertbase_7_5.tmx"/>
  <cell x="8" y="5" map="desertbase_8_5.tmx"/>
  <cell x="9" y="5" map="desertbase_9_5.tmx"/>
- <cell x="0" y="6" map="desertbase_0_6.tmx"/>
+ <cell x="0" y="6" map="desertbase_0_6.tmx">
+  <lot x="83" y="4" level="0" width="121" height="101" map="../../../Building Pool/azakaela/MountainCaves/SmallCave_South.tbx"/>
+  <lot x="7" y="0" level="0" width="76" height="196" map="../../../Building Pool/azakaela/MountainCaves/Cave2.tbx"/>
+  <object x="195" y="138" level="0" width="1" height="1"/>
+ </cell>
  <cell x="1" y="6" map="desertbase_1_6.tmx"/>
  <cell x="2" y="6" map="desertbase_2_6.tmx">
   <lot x="191" y="97" level="0" width="71" height="41" map="../../../Building Pool/Industrial/Lot_Industrial_Factory_BuildingA.tbx"/>
@@ -198,9 +202,9 @@
   <lot x="110" y="156" level="0" width="13" height="5" map="../../../Building Pool/Industrial/Lot_Industrial_OfficeTrailer_N_01.tbx"/>
   <lot x="64" y="125" level="0" width="10" height="25" map="../../../Building Pool/Industrial/Lot_TrainScoffold.tbx"/>
   <lot x="109" y="160" level="0" width="24" height="18" map="../../../Building Pool/Industrial/Lot_Industrial_Hanger_E_01.tbx"/>
-  <object x="3" y="84" level="0" width="1" height="1" visible="0"/>
-  <object x="68" y="134" level="0" width="1" height="1" visible="0"/>
-  <object x="16" y="107" level="0" width="1" height="1" visible="0"/>
+  <object x="3" y="84" level="0" width="1" height="1"/>
+  <object x="68" y="134" level="0" width="1" height="1"/>
+  <object x="16" y="107" level="0" width="1" height="1"/>
  </cell>
  <cell x="4" y="6" map="desertbase_4_6.tmx"/>
  <cell x="5" y="6" map="desertbase_5_6.tmx"/>
@@ -212,11 +216,40 @@
   <lot x="101" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar1.tbx"/>
   <lot x="202" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar2.tbx"/>
   <lot x="0" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar2.tbx"/>
+  <lot x="232" y="214" level="0" width="61" height="61" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Other/lot_electrical_substation.tbx"/>
+  <lot x="232" y="251" level="0" width="15" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Riverwood/Other/lot_trailer_office_01.tbx"/>
+  <lot x="36" y="262" level="0" width="21" height="30" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Riverwood/Industrial/lot_mechanic_05.tbx"/>
+  <lot x="85" y="227" level="0" width="67" height="65" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Riverwood/Industrial/lot_garagestorage_10.tbx"/>
+  <lot x="236" y="245" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Riverwood/Other/lot_shed_16_concrete.tbx"/>
+  <lot x="243" y="245" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Riverwood/Other/lot_shed_16_concrete.tbx"/>
+  <lot x="250" y="245" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Riverwood/Other/lot_shed_16_concrete.tbx"/>
+  <lot x="159" y="244" level="0" width="38" height="38" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Retail and Commercial/lot_offices_01_plaza.tbx"/>
+  <lot x="38" y="241" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Retail and Commercial/lot_laundromat_03.tbx"/>
+  <lot x="200" y="274" level="0" width="10" height="10" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_truck_05_generic.tbx"/>
+  <lot x="189" y="239" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/March Ridge/Other/lot_shed_16_concrete.tbx"/>
  </cell>
  <cell x="1" y="7" map="desertbase_1_7.tmx">
   <lot x="0" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar1.tbx"/>
   <lot x="101" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar2.tbx"/>
   <lot x="199" y="159" level="0" width="101" height="7" map="../../../Building Pool/azakaela and fantasiado/RailroadWithTrainCar1.tbx"/>
+  <lot x="163" y="254" level="0" width="9" height="9" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_billboard_05_citr8.tbx"/>
+  <lot x="89" y="232" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Residential/lot_house_medium_18_farmhouse.tbx"/>
+  <lot x="104" y="245" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_garage_canopy_03.tbx"/>
+  <lot x="96" y="228" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_shed_02.tbx"/>
+  <lot x="51" y="246" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_barn_01.tbx"/>
+  <lot x="53" y="236" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Other/lot_barn_02.tbx"/>
+  <lot x="67" y="228" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Rosewood/Other/lot_shed_10_farm.tbx"/>
+  <lot x="222" y="245" level="0" width="30" height="35" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_cabin_09_gunrange.tbx"/>
+  <lot x="220" y="252" level="0" width="7" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_canopy_01.tbx"/>
+  <lot x="218" y="264" level="0" width="7" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_canopy_02.tbx"/>
+  <lot x="224" y="226" level="0" width="18" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_foodtrailer.tbx"/>
+  <lot x="206" y="231" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_garage_canopy_03.tbx"/>
+  <lot x="195" y="217" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_garage_canopy_04.tbx"/>
+  <lot x="197" y="248" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_garage_canopy_02.tbx"/>
+  <lot x="210" y="210" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_garage_canopy_02.tbx"/>
+  <lot x="190" y="195" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_garage_canopy_02.tbx"/>
+  <lot x="231" y="245" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_01_E.tbx"/>
+  <lot x="231" y="242" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_01_E.tbx"/>
  </cell>
  <cell x="2" y="7" map="desertbase_2_7.tmx">
   <lot x="0" y="159" level="0" width="101" height="6" map="../../../Building Pool/azakaela and fantasiado/Railroad.tbx"/>
@@ -553,8 +586,82 @@
   <lot x="202" y="30" level="0" width="9" height="8" map="../../../Building Pool/azakaela and fantasiado/Houses/Farm and Remote/Poor/North/AzaGhostHouseSouth.tbx"/>
  </cell>
  <cell x="1" y="9" map="desertbase_1_9.tmx"/>
- <cell x="2" y="9" map="desertbase_2_9.tmx"/>
- <cell x="3" y="9" map="desertbase_3_9.tmx"/>
+ <cell x="2" y="9" map="desertbase_2_9.tmx">
+  <lot x="149" y="170" level="0" width="7" height="7" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_garage_canopy_03.tbx"/>
+  <lot x="149" y="159" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_GiftStore_East.tbx"/>
+  <lot x="149" y="148" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Clothes_East.tbx"/>
+  <lot x="149" y="137" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Food_East.tbx"/>
+  <lot x="149" y="126" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Jewlery_East.tbx"/>
+  <lot x="149" y="115" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Produce_East.tbx"/>
+  <lot x="149" y="104" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap_East.tbx"/>
+  <lot x="149" y="93" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap2_East.tbx"/>
+  <lot x="149" y="82" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Books_East.tbx"/>
+  <lot x="149" y="71" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Clothes_East.tbx"/>
+  <lot x="149" y="60" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Clothes2_East.tbx"/>
+  <lot x="149" y="181" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Clothes3_East.tbx"/>
+  <lot x="149" y="192" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Clothes4_East.tbx"/>
+  <lot x="149" y="203" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Food_East.tbx"/>
+  <lot x="149" y="214" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_GiftStore_East.tbx"/>
+  <lot x="175" y="205" level="0" width="15" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_portacabin_06_break.tbx"/>
+  <lot x="178" y="199" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_portalet_01_E.tbx"/>
+  <lot x="178" y="195" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_portalet_01_E.tbx"/>
+  <lot x="178" y="191" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_portalet_01_E.tbx"/>
+  <lot x="178" y="187" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_portalet_01_E.tbx"/>
+  <lot x="178" y="183" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Muldraugh/Other/lot_portalet_01_E.tbx"/>
+  <lot x="181" y="67" level="0" width="23" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Restaurants and Entertainment/lot_camp_05_stage.tbx"/>
+  <lot x="181" y="137" level="0" width="23" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Restaurants and Entertainment/lot_camp_05_stage.tbx"/>
+  <lot x="183" y="124" level="0" width="10" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Restaurants and Entertainment/lot_camp_10_sports.tbx"/>
+  <lot x="187" y="123" level="0" width="20" height="16" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Restaurants and Entertainment/lot_camp_09_artcabin.tbx"/>
+  <lot x="179" y="93" level="0" width="23" height="31" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Restaurants and Entertainment/lot_diner_09.tbx"/>
+  <lot x="221" y="170" level="0" width="6" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Other/Other/lot_electrical_house_substation_S.tbx"/>
+  <lot x="183" y="205" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_patio_09_plain.tbx"/>
+  <lot x="190" y="97" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_patio_02_plain.tbx"/>
+  <lot x="190" y="110" level="0" width="11" height="11" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_patio_04_plain.tbx"/>
+  <lot x="190" y="95" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_02_S.tbx"/>
+  <lot x="193" y="95" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_02_S.tbx"/>
+  <lot x="196" y="95" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_02_S.tbx"/>
+  <lot x="199" y="95" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_02_S.tbx"/>
+  <lot x="170" y="214" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_shed_05.tbx"/>
+  <lot x="191" y="214" level="0" width="18" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_trailer_N_02_empty.tbx"/>
+  <lot x="163" y="214" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Broadcast_West.tbx"/>
+  <lot x="163" y="203" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Carpentry_West.tbx"/>
+  <lot x="163" y="192" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Food_West.tbx"/>
+  <lot x="163" y="181" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap1_West.tbx"/>
+  <lot x="163" y="170" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Food2_West.tbx"/>
+  <lot x="163" y="159" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap2_West.tbx"/>
+  <lot x="163" y="148" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap3_West.tbx"/>
+  <lot x="163" y="137" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Books_West.tbx"/>
+  <lot x="163" y="126" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Broadcast_West.tbx"/>
+  <lot x="163" y="115" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap3_West.tbx"/>
+  <lot x="163" y="103" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Books_West.tbx"/>
+  <lot x="163" y="92" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Food_West.tbx"/>
+  <lot x="163" y="81" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap1_West.tbx"/>
+  <lot x="163" y="71" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_RandomCrap3_West.tbx"/>
+  <lot x="163" y="60" level="0" width="7" height="7" map="../../../Building Pool/azakaela/FairGrounds/FleaMarketCanopy_Food2_West.tbx"/>
+ </cell>
+ <cell x="3" y="9" map="desertbase_3_9.tmx">
+  <lot x="134" y="115" level="0" width="8" height="35" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_seating_01.tbx"/>
+  <lot x="135" y="154" level="0" width="8" height="35" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_seating_02.tbx"/>
+  <lot x="122" y="173" level="0" width="18" height="18" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_foodtrailer.tbx"/>
+  <lot x="126" y="168" level="0" width="7" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_canopy_02.tbx"/>
+  <lot x="126" y="161" level="0" width="7" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_canopy_01.tbx"/>
+  <lot x="117" y="168" level="0" width="7" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_canopy_02.tbx"/>
+  <lot x="117" y="161" level="0" width="7" height="5" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_dragracing_canopy_02.tbx"/>
+  <lot x="102" y="28" level="0" width="9" height="12" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_wreckingyard_01_office.tbx"/>
+  <lot x="171" y="185" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_stables_01.tbx"/>
+  <lot x="171" y="164" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_stables_03.tbx"/>
+  <lot x="184" y="164" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_stables_04.tbx"/>
+  <lot x="192" y="164" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_stables_03.tbx"/>
+  <lot x="189" y="185" level="0" width="21" height="21" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_stables_01.tbx"/>
+  <lot x="100" y="147" level="0" width="15" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portacabin_04_office&amp;break.tbx"/>
+  <lot x="88" y="165" level="0" width="15" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portacabin_05.tbx"/>
+  <lot x="88" y="179" level="0" width="15" height="15" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portacabin_06_break.tbx"/>
+  <lot x="114" y="182" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_01_E.tbx"/>
+  <lot x="114" y="179" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_01_E.tbx"/>
+  <lot x="114" y="176" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_01_E.tbx"/>
+  <lot x="114" y="173" level="0" width="6" height="6" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_portalet_01_E.tbx"/>
+  <lot x="133" y="102" level="0" width="13" height="13" map="../../../Building Pool/Vanilla Buildings Catalogue Curated/Valley Station/Other/lot_shed_17_dragrace.tbx"/>
+ </cell>
  <cell x="4" y="9" map="desertbase_4_9.tmx"/>
  <cell x="5" y="9" map="desertbase_5_9.tmx"/>
  <cell x="6" y="9" map="desertbase_6_9.tmx"/>

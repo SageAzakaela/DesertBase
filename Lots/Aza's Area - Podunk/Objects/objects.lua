@@ -1,4 +1,5 @@
 objects = {
+  { name = "", type = "", x = 195, y = 1938, z = 0, width = 1, height = 1 },
   { name = "", type = "SpawnPoint", x = 814, y = 1974, z = 0, width = 1, height = 1, properties = { Professions = "" } },
   { name = "", type = "", x = 801, y = 1915, z = 0, width = 1, height = 1 },
   { name = "", type = "", x = 822, y = 1935, z = 0, width = 1, height = 1 },
